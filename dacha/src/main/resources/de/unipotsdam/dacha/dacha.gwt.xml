@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="dacha">
+	<inherits name="com.google.gwt.user.User" />
+	<inherits name="com.google.gwt.user.theme.standard.Standard" />
+	<inherits name="com.google.gwt.activity.Activity" />
+	<inherits name="com.google.gwt.place.Place" />
+
+	<entry-point class="de.unipotsdam.dacha.client.Dacha" />
+
+	<replace-with class="de.unipotsdam.dacha.client.ClientFactoryImpl">
+		<when-type-is class="de.unipotsdam.dacha.client.ClientFactory" />
+	</replace-with>
+
+	<source path="client" />
+	<source path="shared" />
+</module>

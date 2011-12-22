@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+
+.cellTableWidget {
+	
+}
+
+.cellTableFirstColumn {
+	
+}
+
+.cellTableLastColumn {
+	
+}
+
+.cellTableFooter {
+	
+}
+
+.cellTableHeader {
+	color: #0099CC;
+	font: Lucida Sans
+}
+
+.cellTableCell {
+	padding: 10px 8px;
+	border-top: 1px solid #CCCCCC;
+}
+
+.cellTableFirstColumnFooter {
+	
+}
+
+.cellTableFirstColumnHeader {
+	
+}
+
+.cellTableLastColumnFooter {
+	
+}
+
+.cellTableLastColumnHeader {
+	
+}
+
+.cellTableSortableHeader {
+	
+}
+
+.cellTableSortableHeader:hover {
+	
+}
+
+.cellTableSortedHeaderAscending {
+	
+}
+
+.cellTableSortedHeaderDescending {
+	
+}
+
+.cellTableEvenRow {
+	
+}
+
+.cellTableEvenRowCell {
+	
+}
+
+.cellTableOddRow {
+	
+}
+
+.cellTableOddRowCell {
+	
+}
+
+.cellTableHoveredRow {
+	
+}
+
+.cellTableHoveredRowCell {
+	
+}
+
+.cellTableKeyboardSelectedRow {
+	
+}
+
+.cellTableKeyboardSelectedRowCell {
+	
+}
+
+.cellTableSelectedRow {
+	
+}
+
+.cellTableSelectedRowCell {
+	
+}
+
+.cellTableKeyboardSelectedCell {
+	
+}
+
+.cellTableLoading {
+	
+}
